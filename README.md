@@ -12,3 +12,11 @@ As a newly hired Human Capital Analyst, my task to transform this complex datase
 2. **Prepare and reformat** the survey results for visual analysis.
 3. **Visualise the responses** and provide actionable HR recommendations.
 
+## 📁 Contents
+
+| Folder | Description |
+|--------|-------------|
+| `data/` | Raw survey data (.xlsx) |
+| `visuals/` | Final stacked bar chart visualization |
+| `docs/` | Word-based project summary |
+| `scripts/` | List of Excel formulas and data cleaning steps |
